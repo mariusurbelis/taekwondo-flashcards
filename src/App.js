@@ -43,6 +43,24 @@ class App extends Component {
         english: 'Reverse',
         korean: 'Bandae',
         flip: false
+      },
+      {
+        id: 7,
+        english: 'Forefist High Front Punch',
+        korean: 'Napunde Ap Jirugi',
+        flip: false
+      },
+      {
+        id: 8,
+        english: 'Side Piercing Kick',
+        korean: 'Yop Cha Jirugi',
+        flip: false
+      },
+      {
+        id: 9,
+        english: 'Turning Kick',
+        korean: 'Dollyo Chagi',
+        flip: false
       }
     ]
   }
